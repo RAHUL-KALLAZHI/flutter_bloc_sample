@@ -1,6 +1,6 @@
 # coolapps
 
-A new Flutter project.
+Sample Flutter project with Bloc
 
 ## Getting Started
 
